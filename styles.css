@@ -1,0 +1,55 @@
+/* Default */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    color: #C9FBFF;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+body {
+    background-color: #57737a;
+}
+
+/* MAIN */
+main {
+    margin: 10rem;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    color: #040F0F;
+    margin-bottom: 5rem;
+}
+
+.quote-box {
+    background-color: #85bdbf;
+    padding: 5rem;
+    width: 50rem;
+    margin: 0 auto;
+    border-radius: 1rem;
+}
+
+p {
+    color: #040F0F;
+    margin: 0.5rem;
+}
+
+button {
+    color: white;
+    padding: 0.4rem;
+    margin: 0.5rem 1rem 0 1rem;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    border-radius: 0.5rem;
+    background-color: #040F0F;
+}
+
+button:hover {
+    background-color: white;
+    color: #040F0F;
+}
+
+
